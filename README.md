@@ -36,4 +36,4 @@ To run these notebooks locally, you will need an optimization solver (such as Hi
 
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/YourUsername/Your-Repo-Name.git](https://github.com/YourUsername/Your-Repo-Name.git)
+   git clone [https://github.com/mdmis24/PyPSA-Energy-Systems-Modeling.git](https://github.com/mdmis24/PyPSA-Energy-Systems-Modeling.git)

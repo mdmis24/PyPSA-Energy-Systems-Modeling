@@ -37,3 +37,8 @@ To run these notebooks locally, you will need an optimization solver (such as Hi
 1. Clone this repository:
    ```bash
    git clone [https://github.com/mdmis24/PyPSA-Energy-Systems-Modeling.git](https://github.com/mdmis24/PyPSA-Energy-Systems-Modeling.git)
+   ```
+
+2. Install the dependencies:
+   ```bash
+   pip install -r requirements.txt

@@ -1,0 +1,20 @@
+# Core PyPSA Framework & Optimization
+pypsa
+linopy
+highspy
+
+# Data Processing & Numerics
+pandas
+numpy
+scipy
+xarray
+
+# Visualization & Mapping
+matplotlib
+cartopy
+geopandas
+networkx
+
+# Jupyter Notebook Environment
+jupyter
+ipykernel
